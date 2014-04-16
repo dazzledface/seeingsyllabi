@@ -234,7 +234,7 @@ body {
   line-height: 20px;
   color: #333333;
   background-color: #F0E0B2;
-  background-image:url('/seeingsyllabi/images/syllabus_full.jpg');
+  background-image:url('./images/syllabus_full.jpg');
 }
 
 a {
